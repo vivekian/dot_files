@@ -1,0 +1,9 @@
+plugin manager to use: vim-plug (https://github.com/junegunn/vim-plug) 
+fzf (alternate to ctrlp) 
+lightline (status on vim editor - alternate to vim-airline) 
+NERDTree (file explorer to view files on the right) 
+YouCompleteMe
+ctrlp.vim
+syntastic
+tagbar
+vim-airline
